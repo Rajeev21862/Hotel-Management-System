@@ -124,10 +124,4 @@ total daily collection.
   <li>Sales calculation</li>
 </ul>
 
-<h2>🚀 Run Locally</h2>
 
-<p>Clone the repository:</p>
-
-```bash
-git clone https://github.com/Shrutikadubey/Hotel-Management-System.git
-cd Hotel-Management-System
